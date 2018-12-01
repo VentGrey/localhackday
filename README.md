@@ -3,3 +3,5 @@
 ## Colaboradores::
 
 - Omar Jair Purata 
+- Einar Jhordany Serna Valdivia
+
