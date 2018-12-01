@@ -3,3 +3,4 @@
 ## Colaboradores::
 
 - Omar Jair Purata 
+- Alejandro Ponce Alonso
