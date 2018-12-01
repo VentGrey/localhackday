@@ -2,5 +2,6 @@
 
 ## Colaboradores::
 
-- Omar Jair Purata 
+- Omar Jair Purata
 - Hugo Segoviano
+- Pedro Abraham Moreno Vazquez
